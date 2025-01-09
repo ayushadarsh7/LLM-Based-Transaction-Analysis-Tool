@@ -1,4 +1,4 @@
-# AI Intelligence Analyst Tool for Bank Transaction Analysis
+# LLM based Tool for Bank Transaction Analysis
 
 ---
 
